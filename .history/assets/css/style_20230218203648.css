@@ -19,7 +19,6 @@ html {
    right: 0;
    height: 46px;
    background-color: #000;
-   z-index: 1;
 }
 
 #nav {
@@ -117,13 +116,11 @@ html {
 }
 
 #slider .text-heading {
-   font-weight: 500;
-   font-size: 24px;
+   color: red;
 }
 
-#slider .text-description {
-   font-size: 15px;
-   margin-top: 25px;
+#slider > .text-description {
+
 }
 
 

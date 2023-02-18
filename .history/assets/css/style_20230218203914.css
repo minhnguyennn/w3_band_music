@@ -19,7 +19,6 @@ html {
    right: 0;
    height: 46px;
    background-color: #000;
-   z-index: 1;
 }
 
 #nav {
@@ -121,9 +120,9 @@ html {
    font-size: 24px;
 }
 
-#slider .text-description {
+#slider > .text-description {
    font-size: 15px;
-   margin-top: 25px;
+   ma
 }
 
 

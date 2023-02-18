@@ -19,7 +19,6 @@ html {
    right: 0;
    height: 46px;
    background-color: #000;
-   z-index: 1;
 }
 
 #nav {
@@ -106,26 +105,6 @@ html {
    padding-top: 50%;
    background: url("/assets/img/Slider/slider1.jpg") top center / cover no-repeat;
 }
-
-#slider > .text-content {
-   position: absolute;
-   text-align: center;
-   bottom: 48px;
-   color: #fff;
-   left: 50%;
-   transform: translateX(-50%);
-}
-
-#slider .text-heading {
-   font-weight: 500;
-   font-size: 24px;
-}
-
-#slider .text-description {
-   font-size: 15px;
-   margin-top: 25px;
-}
-
 
 #content {
 }
